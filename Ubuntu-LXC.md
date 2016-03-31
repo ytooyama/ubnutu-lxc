@@ -1,8 +1,9 @@
 #UbuntuでLXCを利用する
 （Last Update: 2016/03/31）
 
-本書は以下のLXCをインストールした時の各操作のメモです。
+本書は以下の環境にLXCをインストールした時の各操作のメモです。
 
+- Ubuntu Trusty 14.04.4 Server
 - LXC 1.0.8-0ubuntu0.3
 
 ##インストール
