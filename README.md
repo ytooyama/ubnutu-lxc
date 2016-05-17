@@ -17,3 +17,4 @@ Dockerについて(公式)
 参考
 
 - [15分で分かるLXC（Linux Containers）...](http://knowledge.sakura.ad.jp/tech/2108/)
+- [コンテナの監視および停止 by Oracle](https://docs.oracle.com/cd/E39368_01/b71105/ol_shutdown_containers.html)
