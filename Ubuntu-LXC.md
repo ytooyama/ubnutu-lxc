@@ -1,5 +1,5 @@
 #UbuntuでLXCを利用する
-（Last Update: 2016/03/31）
+（Last Update: 2016/05/18）
 
 本書は以下の環境にLXCをインストールした時の各操作のメモです。
 
@@ -143,6 +143,12 @@ $ sudo lxc-console -n my-container
 ```
 Ctrl-a q
 ```
+
+- プロセスの確認
+
+````
+$ sudo lxc-attach -n my-container -- /bin/ps aux
+````
 
 - 終了
 
